@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "381204404552",
+    "project_id": "par-production",
+    "storage_bucket": "par-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381204404552:android:3805fd987bf591b6f07b7d",
+        "android_client_info": {
+          "package_name": "com.mammothinteractive.hotelHunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381204404552-ebsqnp7d4tl6kb39h9hcrtbo4l4gd834.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjIEYllPbbehkbxHKEP3ZBrYSM5u8fk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381204404552-ebsqnp7d4tl6kb39h9hcrtbo4l4gd834.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381204404552-seqm3pad7jbqvjp8p9rjijfkrr3i3kd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mammothinteractive.hotelHunter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
