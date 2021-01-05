@@ -3,7 +3,7 @@ import 'package:hotel_hunter/Models/userObjects.dart';
 
 class AppConstants {
 
-  static final String appName = 'Hotel Hunter';
+  static final String appName = 'Sewa Aja';
   static final String googleMapsAPIKey = "AIzaSyBy-WL1FQqRihdXxZAeRYQNlr4-XyQ_cTM";
 
   static final Color selectedIconColor = Colors.deepOrange;

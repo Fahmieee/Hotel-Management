@@ -66,10 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Icon(
-              Icons.hotel,
-              size: 80,
-            ),
+            Image.network('https://sewaaja.par-mobile.com/images/flutter/iconSewaAja.png', fit: BoxFit.cover),
             Padding(
               padding: const EdgeInsets.only(top: 20.0),
               child: Text(
